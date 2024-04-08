@@ -1,0 +1,68 @@
+.product{
+  text-align: center;
+
+}
+.iphone{
+    border:3px darkgray solid;
+    float:left;
+    width:23%;
+    hight:20px;
+    margin:3px 3px;
+}
+img{
+    width:250px;
+    display:inline-block;
+    margin:3px 5px;
+}
+.pr{
+    color:rgb(62, 180, 32);
+    font-size: 20px;
+}
+.pr2{
+    color:red;
+    font-size:15px;
+}
+.cart{
+    width:75%;
+    margin: 3px 3px;
+text-align: center;
+color: white;
+background-color: blue;
+}
+.cart2{
+    text-align: center;
+    color: white;
+}
+i{
+    width: 15px;
+}
+.heart{
+    background-color: white;
+    color:blue;
+    border-color: blue;
+    width:15%;
+    margin: 3px 3px;
+}
+button{
+    text-align: center;
+    border: solid;
+    padding:10px 15px;
+    margin:3px 3px 3px 3px;
+    border:5px 5px;
+}
+div{
+
+   margin: 5px 5px;
+}
+.clearfix{
+    clear:both;
+}
+h1{
+    margin: 20px;
+}
+h2{
+    margin: 10px;
+}
+p{
+    margin: 10px;
+}
